@@ -4,11 +4,8 @@
 
 
   👋 Hi, I’m Tran Huong Giang
-  
-  👀 I’m interested in DATA and BISINESS 
-  
+  👀 I’m interested in DATA and BUSINESS  
   🌱 I’m currently learning DATA SCIENCE IN ECONOMICS AND BUSINESS
-  
   📫 Interest in  writing and literature 
 
 <p>
