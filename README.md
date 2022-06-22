@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**tranhuonggiang22/tranhuonggiang22** is a :sparkles:_special_:sparkles: repository because its 'README.md' (this file) appears on your GitHub profile.
+
+
 
   👋 Hi, I’m Tran Huong Giang
   👀 I’m interested in DATA and BISINESS  
@@ -14,4 +14,3 @@
 <img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuonggiang22&layout=compact&theme=radical&langs_count=8' width="400"/>
 </p>
 
--->
