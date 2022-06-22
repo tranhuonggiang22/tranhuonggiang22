@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**tranhuonggiang22/tranhuonggiang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  👋 Hi, I’m Tran Huong Giang
+  👀 I’m interested in DATA and BISINESS  
+  🌱 I’m currently learning DATA SCIENCE IN ECONOMICS AND BUSINESS
+  📫 Interest in  writing and literature 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p float='left'>
+<img src= 'https://github-readme-stats.vercel.app/api?username=tranhuonggiang22&show_icons=true&theme=radical' width="400">
+&nbsp;  
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuonggiang22&layout=compact&theme=radical&langs_count=8' width="300"/>
+</p>
+
 -->
